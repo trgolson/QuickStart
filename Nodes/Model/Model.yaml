@@ -18,6 +18,7 @@ Children:
   DataType: Boolean
   Value: false
 - Name: Temperature
+  Id: g=228fae8c520a7c1caf9c14d0dbe804f2
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
