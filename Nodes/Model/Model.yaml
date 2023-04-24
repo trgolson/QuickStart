@@ -14,6 +14,7 @@ Children:
   DataType: Int32
   Value: 0
 - Name: Motor1Alarm
+  Id: g=61d468e6ea27c4adc76e1cab17d378d4
   Type: BaseDataVariableType
   DataType: Boolean
   Value: false
