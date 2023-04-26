@@ -89,5 +89,13 @@ Project:
    Uri: 'urn:FTOptix:SQLiteStore:Net'
    Module: FTOptix.SQLiteStore.Net
    Version: 1.0
+  23:
+   Uri: 'urn:FTOptix:WebUI'
+   Module: FTOptix.WebUI
+   Version: 1.0
+  24:
+   Uri: 'urn:FTOptix:WebUI:Net'
+   Module: FTOptix.WebUI.Net
+   Version: 1.0
  Nodes:
  - File: Nodes/QuickStart.yaml
